@@ -1,0 +1,1 @@
+参见 [物联网时代——Node.js 能做些什么](http://www.padapada.org/blog?id=59c28ad9bade8e1212b0f126)
